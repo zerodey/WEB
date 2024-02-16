@@ -5,16 +5,13 @@ import sys
 import time
 
 
-# Создайте оконное приложение, отображающее карту по координатам и в масштабе, который задаётся программно.
-
 class MapParams(object):
     def __init__(self):
-        self.lat = 61.665279  # Координаты центра карты на старте. Задал координаты университета
+        self.lat = 61.665279
         self.lon = 50.813492
-        self.zoom = 16  # Масштаб карты на старте. Изменяется от 1 до 19
-        self.type = "map"  # Другие значения "sat", "sat,skl"
+        self.zoom = 16
+        self.type = "map"
 
-    # Преобразование координат в параметр ll, требуется без пробелов, через запятую и без скобок
     def ll(self):
         return str(self.lon) + "," + str(self.lat)
 
@@ -22,7 +19,6 @@ class MapParams(object):
         self.zoom += new_zoom
 
 
-# Создание карты с соответствующими параметрами.
 def load_map(mp):
     map_request = "http://static-maps.yandex.ru/1.x/?ll={ll}&z={z}&l={type}".format(ll=mp.ll(), z=mp.zoom, type=mp.type)
     response = requests.get(map_request)
@@ -32,7 +28,6 @@ def load_map(mp):
         print("Http статус:", response.status_code, "(", response.reason, ")")
         sys.exit(1)
 
-    # Запись полученного изображения в файл.
     map_file = "map.png"
     try:
         with open(map_file, "wb") as file:
@@ -44,7 +39,6 @@ def load_map(mp):
 
 
 def main():
-    # Инициализируем pygame
     pygame.init()
     screen = pygame.display.set_mode((600, 450))
     mp = MapParams()
@@ -54,7 +48,7 @@ def main():
     clock = pygame.time.Clock()
     while run:
         for event in pygame.event.get():
-            if event.type == pygame.QUIT:  # Выход из программы
+            if event.type == pygame.QUIT:
                 run = 0
             if event.type == pygame.K_PAGEDOWN:
                 print(mp.zoom)
@@ -66,14 +60,11 @@ def main():
                 print(mp.zoom)
                 if mp.zoom != 19:
                     mp.set_zoom(1)
-        # Создаем файл
         map_file = load_map(mp)
-        # Рисуем картинку, загружаемую из только что созданного файла.
         screen.blit(pygame.image.load(map_file), (0, 0))
         clock.tick(50)
         pygame.display.flip()
     pygame.quit()
-    # Удаляем файл с изображением.
     os.remove(map_file)
 
 
