@@ -1,0 +1,693 @@
+{
+  'response': {
+    'GeoObjectCollection': {
+      'metaDataProperty': {
+        'GeocoderResponseMetaData': {
+          'Point': {
+            'pos': '37.606281 55.822883'
+          },
+          'boundedBy': {
+            'Envelope': {
+              'lowerCorner': '37.356279 55.572075',
+              'upperCorner': '37.856282 56.072077'
+            }
+          },
+          'request': '37.606281 55.822883',
+          'results': '10',
+          'found': '10'
+        }
+      },
+      'featureMember': [
+        {
+          'GeoObject': {
+            'metaDataProperty': {
+              'GeocoderMetaData': {
+                'precision': 'other',
+                'text': 'Россия, МЦД-3 Ленинградско-Казанский диаметр, станция Останкино',
+                'kind': 'metro',
+                'Address': {
+                  'country_code': 'RU',
+                  'formatted': 'Россия, МЦД-3 Ленинградско-Казанский диаметр, станция Останкино',
+                  'Components': [
+                    {
+                      'kind': 'country',
+                      'name': 'Россия'
+                    },
+                    {
+                      'kind': 'province',
+                      'name': 'Центральный федеральный округ'
+                    },
+                    {
+                      'kind': 'route',
+                      'name': 'МЦД-3 Ленинградско-Казанский диаметр'
+                    },
+                    {
+                      'kind': 'metro',
+                      'name': 'станция Останкино'
+                    }
+                  ]
+                },
+                'AddressDetails': {
+                  'Country': {
+                    'AddressLine': 'Россия, МЦД-3 Ленинградско-Казанский диаметр, станция Останкино',
+                    'CountryNameCode': 'RU',
+                    'CountryName': 'Россия',
+                    'Country': {
+                      'Locality': {}
+                    }
+                  }
+                }
+              }
+            },
+            'name': 'станция Останкино',
+            'description': 'МЦД-3 Ленинградско-Казанский диаметр, Россия',
+            'boundedBy': {
+              'Envelope': {
+                'lowerCorner': '37.595043 55.812838',
+                'upperCorner': '37.6115 55.822104'
+              }
+            },
+            'uri': 'ymapsbm1://geo?data=Cgo1MjI5OTcxMzE2EnTQoNC-0YHRgdC40Y8sINCc0KbQlC0zINCb0LXQvdC40L3Qs9GA0LDQtNGB0LrQvi3QmtCw0LfQsNC90YHQutC40Lkg0LTQuNCw0LzQtdGC0YAsINGB0YLQsNC90YbQuNGPINCe0YHRgtCw0L3QutC40L3QviIKDcBpFkIVF0VfQg,,',
+            'Point': {
+              'pos': '37.603271 55.817471'
+            }
+          }
+        },
+        {
+          'GeoObject': {
+            'metaDataProperty': {
+              'GeocoderMetaData': {
+                'precision': 'other',
+                'text': 'Россия, Москва, Люблинско-Дмитровская линия, метро Бутырская',
+                'kind': 'metro',
+                'Address': {
+                  'country_code': 'RU',
+                  'formatted': 'Россия, Москва, Люблинско-Дмитровская линия, метро Бутырская',
+                  'Components': [
+                    {
+                      'kind': 'country',
+                      'name': 'Россия'
+                    },
+                    {
+                      'kind': 'province',
+                      'name': 'Центральный федеральный округ'
+                    },
+                    {
+                      'kind': 'province',
+                      'name': 'Москва'
+                    },
+                    {
+                      'kind': 'locality',
+                      'name': 'Москва'
+                    },
+                    {
+                      'kind': 'route',
+                      'name': 'Люблинско-Дмитровская линия'
+                    },
+                    {
+                      'kind': 'metro',
+                      'name': 'метро Бутырская'
+                    }
+                  ]
+                },
+                'AddressDetails': {
+                  'Country': {
+                    'AddressLine': 'Россия, Москва, Люблинско-Дмитровская линия, метро Бутырская',
+                    'CountryNameCode': 'RU',
+                    'CountryName': 'Россия',
+                    'AdministrativeArea': {
+                      'AdministrativeAreaName': 'Москва',
+                      'Locality': {
+                        'LocalityName': 'Москва',
+                        'Thoroughfare': {
+                          'ThoroughfareName': 'Люблинско-Дмитровская линия',
+                          'Premise': {
+                            'PremiseName': 'метро Бутырская'
+                          }
+                        }
+                      }
+                    }
+                  }
+                }
+              }
+            },
+            'name': 'метро Бутырская',
+            'description': 'Люблинско-Дмитровская линия, Москва, Россия',
+            'boundedBy': {
+              'Envelope': {
+                'lowerCorner': '37.594252 55.808766',
+                'upperCorner': '37.610709 55.818033'
+              }
+            },
+            'uri': 'ymapsbm1://geo?data=CgoxNzM3MDc5OTYxEm_QoNC-0YHRgdC40Y8sINCc0L7RgdC60LLQsCwg0JvRjtCx0LvQuNC90YHQutC-LdCU0LzQuNGC0YDQvtCy0YHQutCw0Y8g0LvQuNC90LjRjywg0LzQtdGC0YDQviDQkdGD0YLRi9GA0YHQutCw0Y8iCg3yaBZCFetAX0I,',
+            'Point': {
+              'pos': '37.602481 55.8134'
+            }
+          }
+        },
+        {
+          'GeoObject': {
+            'metaDataProperty': {
+              'GeocoderMetaData': {
+                'precision': 'other',
+                'text': 'Россия, Москва, Люблинско-Дмитровская линия, метро Фонвизинская',
+                'kind': 'metro',
+                'Address': {
+                  'country_code': 'RU',
+                  'formatted': 'Россия, Москва, Люблинско-Дмитровская линия, метро Фонвизинская',
+                  'Components': [
+                    {
+                      'kind': 'country',
+                      'name': 'Россия'
+                    },
+                    {
+                      'kind': 'province',
+                      'name': 'Центральный федеральный округ'
+                    },
+                    {
+                      'kind': 'province',
+                      'name': 'Москва'
+                    },
+                    {
+                      'kind': 'locality',
+                      'name': 'Москва'
+                    },
+                    {
+                      'kind': 'route',
+                      'name': 'Люблинско-Дмитровская линия'
+                    },
+                    {
+                      'kind': 'metro',
+                      'name': 'метро Фонвизинская'
+                    }
+                  ]
+                },
+                'AddressDetails': {
+                  'Country': {
+                    'AddressLine': 'Россия, Москва, Люблинско-Дмитровская линия, метро Фонвизинская',
+                    'CountryNameCode': 'RU',
+                    'CountryName': 'Россия',
+                    'AdministrativeArea': {
+                      'AdministrativeAreaName': 'Москва',
+                      'Locality': {
+                        'LocalityName': 'Москва',
+                        'Thoroughfare': {
+                          'ThoroughfareName': 'Люблинско-Дмитровская линия',
+                          'Premise': {
+                            'PremiseName': 'метро Фонвизинская'
+                          }
+                        }
+                      }
+                    }
+                  }
+                }
+              }
+            },
+            'name': 'метро Фонвизинская',
+            'description': 'Люблинско-Дмитровская линия, Москва, Россия',
+            'boundedBy': {
+              'Envelope': {
+                'lowerCorner': '37.579124 55.81826',
+                'upperCorner': '37.595582 55.827525'
+              }
+            },
+            'uri': 'ymapsbm1://geo?data=CgoxNzM3MDc5OTExEnXQoNC-0YHRgdC40Y8sINCc0L7RgdC60LLQsCwg0JvRjtCx0LvQuNC90YHQutC-LdCU0LzQuNGC0YDQvtCy0YHQutCw0Y8g0LvQuNC90LjRjywg0LzQtdGC0YDQviDQpNC-0L3QstC40LfQuNC90YHQutCw0Y8iCg1zWRZCFaRKX0I,',
+            'Point': {
+              'pos': '37.587353 55.822893'
+            }
+          }
+        },
+        {
+          'GeoObject': {
+            'metaDataProperty': {
+              'GeocoderMetaData': {
+                'precision': 'other',
+                'text': 'Россия, МЦД-1 Белорусско-Савёловский диаметр, станция Тимирязевская',
+                'kind': 'metro',
+                'Address': {
+                  'country_code': 'RU',
+                  'formatted': 'Россия, МЦД-1 Белорусско-Савёловский диаметр, станция Тимирязевская',
+                  'Components': [
+                    {
+                      'kind': 'country',
+                      'name': 'Россия'
+                    },
+                    {
+                      'kind': 'province',
+                      'name': 'Центральный федеральный округ'
+                    },
+                    {
+                      'kind': 'route',
+                      'name': 'МЦД-1 Белорусско-Савёловский диаметр'
+                    },
+                    {
+                      'kind': 'metro',
+                      'name': 'станция Тимирязевская'
+                    }
+                  ]
+                },
+                'AddressDetails': {
+                  'Country': {
+                    'AddressLine': 'Россия, МЦД-1 Белорусско-Савёловский диаметр, станция Тимирязевская',
+                    'CountryNameCode': 'RU',
+                    'CountryName': 'Россия',
+                    'Country': {
+                      'Locality': {}
+                    }
+                  }
+                }
+              }
+            },
+            'name': 'станция Тимирязевская',
+            'description': 'МЦД-1 Белорусско-Савёловский диаметр, Россия',
+            'boundedBy': {
+              'Envelope': {
+                'lowerCorner': '37.567671 55.81476',
+                'upperCorner': '37.584128 55.824026'
+              }
+            },
+            'uri': 'ymapsbm1://geo?data=CgozNzUyMjUzOTYwEnzQoNC-0YHRgdC40Y8sINCc0KbQlC0xINCR0LXQu9C-0YDRg9GB0YHQutC-LdCh0LDQstGR0LvQvtCy0YHQutC40Lkg0LTQuNCw0LzQtdGC0YAsINGB0YLQsNC90YbQuNGPINCi0LjQvNC40YDRj9C30LXQstGB0LrQsNGPIgoNuU0WQhUPR19C',
+            'Point': {
+              'pos': '37.5759 55.819393'
+            }
+          }
+        },
+        {
+          'GeoObject': {
+            'metaDataProperty': {
+              'GeocoderMetaData': {
+                'precision': 'other',
+                'text': 'Россия, Москва, Серпуховско-Тимирязевская линия, метро Тимирязевская',
+                'kind': 'metro',
+                'Address': {
+                  'country_code': 'RU',
+                  'formatted': 'Россия, Москва, Серпуховско-Тимирязевская линия, метро Тимирязевская',
+                  'Components': [
+                    {
+                      'kind': 'country',
+                      'name': 'Россия'
+                    },
+                    {
+                      'kind': 'province',
+                      'name': 'Центральный федеральный округ'
+                    },
+                    {
+                      'kind': 'province',
+                      'name': 'Москва'
+                    },
+                    {
+                      'kind': 'locality',
+                      'name': 'Москва'
+                    },
+                    {
+                      'kind': 'route',
+                      'name': 'Серпуховско-Тимирязевская линия'
+                    },
+                    {
+                      'kind': 'metro',
+                      'name': 'метро Тимирязевская'
+                    }
+                  ]
+                },
+                'AddressDetails': {
+                  'Country': {
+                    'AddressLine': 'Россия, Москва, Серпуховско-Тимирязевская линия, метро Тимирязевская',
+                    'CountryNameCode': 'RU',
+                    'CountryName': 'Россия',
+                    'AdministrativeArea': {
+                      'AdministrativeAreaName': 'Москва',
+                      'Locality': {
+                        'LocalityName': 'Москва',
+                        'Thoroughfare': {
+                          'ThoroughfareName': 'Серпуховско-Тимирязевская линия',
+                          'Premise': {
+                            'PremiseName': 'метро Тимирязевская'
+                          }
+                        }
+                      }
+                    }
+                  }
+                }
+              }
+            },
+            'name': 'метро Тимирязевская',
+            'description': 'Серпуховско-Тимирязевская линия, Москва, Россия',
+            'boundedBy': {
+              'Envelope': {
+                'lowerCorner': '37.567051 55.814067',
+                'upperCorner': '37.583508 55.823333'
+              }
+            },
+            'uri': 'ymapsbm1://geo?data=CgkxMDAwNzkyOTYSf9Cg0L7RgdGB0LjRjywg0JzQvtGB0LrQstCwLCDQodC10YDQv9GD0YXQvtCy0YHQutC-LdCi0LjQvNC40YDRj9C30LXQstGB0LrQsNGPINC70LjQvdC40Y8sINC80LXRgtGA0L4g0KLQuNC80LjRgNGP0LfQtdCy0YHQutCw0Y8iCg0WTRZCFVlGX0I,',
+            'Point': {
+              'pos': '37.57528 55.8187'
+            }
+          }
+        },
+        {
+          'GeoObject': {
+            'metaDataProperty': {
+              'GeocoderMetaData': {
+                'precision': 'other',
+                'text': 'Россия, Москва, Калужско-Рижская линия, метро ВДНХ',
+                'kind': 'metro',
+                'Address': {
+                  'country_code': 'RU',
+                  'formatted': 'Россия, Москва, Калужско-Рижская линия, метро ВДНХ',
+                  'Components': [
+                    {
+                      'kind': 'country',
+                      'name': 'Россия'
+                    },
+                    {
+                      'kind': 'province',
+                      'name': 'Центральный федеральный округ'
+                    },
+                    {
+                      'kind': 'province',
+                      'name': 'Москва'
+                    },
+                    {
+                      'kind': 'locality',
+                      'name': 'Москва'
+                    },
+                    {
+                      'kind': 'route',
+                      'name': 'Калужско-Рижская линия'
+                    },
+                    {
+                      'kind': 'metro',
+                      'name': 'метро ВДНХ'
+                    }
+                  ]
+                },
+                'AddressDetails': {
+                  'Country': {
+                    'AddressLine': 'Россия, Москва, Калужско-Рижская линия, метро ВДНХ',
+                    'CountryNameCode': 'RU',
+                    'CountryName': 'Россия',
+                    'AdministrativeArea': {
+                      'AdministrativeAreaName': 'Москва',
+                      'Locality': {
+                        'LocalityName': 'Москва',
+                        'Thoroughfare': {
+                          'ThoroughfareName': 'Калужско-Рижская линия',
+                          'Premise': {
+                            'PremiseName': 'метро ВДНХ'
+                          }
+                        }
+                      }
+                    }
+                  }
+                }
+              }
+            },
+            'name': 'метро ВДНХ',
+            'description': 'Калужско-Рижская линия, Москва, Россия',
+            'boundedBy': {
+              'Envelope': {
+                'lowerCorner': '37.632817 55.816465',
+                'upperCorner': '37.649274 55.82573'
+              }
+            },
+            'uri': 'ymapsbm1://geo?data=CgkxMDAwNzkzMDgSW9Cg0L7RgdGB0LjRjywg0JzQvtGB0LrQstCwLCDQmtCw0LvRg9C20YHQutC-LdCg0LjQttGB0LrQsNGPINC70LjQvdC40Y8sINC80LXRgtGA0L4g0JLQlNCd0KUiCg1tkBZCFc5IX0I,',
+            'Point': {
+              'pos': '37.641045 55.821097'
+            }
+          }
+        },
+        {
+          'GeoObject': {
+            'metaDataProperty': {
+              'GeocoderMetaData': {
+                'precision': 'other',
+                'text': 'Россия, Москва, Серпуховско-Тимирязевская линия, метро Дмитровская',
+                'kind': 'metro',
+                'Address': {
+                  'country_code': 'RU',
+                  'formatted': 'Россия, Москва, Серпуховско-Тимирязевская линия, метро Дмитровская',
+                  'Components': [
+                    {
+                      'kind': 'country',
+                      'name': 'Россия'
+                    },
+                    {
+                      'kind': 'province',
+                      'name': 'Центральный федеральный округ'
+                    },
+                    {
+                      'kind': 'province',
+                      'name': 'Москва'
+                    },
+                    {
+                      'kind': 'locality',
+                      'name': 'Москва'
+                    },
+                    {
+                      'kind': 'route',
+                      'name': 'Серпуховско-Тимирязевская линия'
+                    },
+                    {
+                      'kind': 'metro',
+                      'name': 'метро Дмитровская'
+                    }
+                  ]
+                },
+                'AddressDetails': {
+                  'Country': {
+                    'AddressLine': 'Россия, Москва, Серпуховско-Тимирязевская линия, метро Дмитровская',
+                    'CountryNameCode': 'RU',
+                    'CountryName': 'Россия',
+                    'AdministrativeArea': {
+                      'AdministrativeAreaName': 'Москва',
+                      'Locality': {
+                        'LocalityName': 'Москва',
+                        'Thoroughfare': {
+                          'ThoroughfareName': 'Серпуховско-Тимирязевская линия',
+                          'Premise': {
+                            'PremiseName': 'метро Дмитровская'
+                          }
+                        }
+                      }
+                    }
+                  }
+                }
+              }
+            },
+            'name': 'метро Дмитровская',
+            'description': 'Серпуховско-Тимирязевская линия, Москва, Россия',
+            'boundedBy': {
+              'Envelope': {
+                'lowerCorner': '37.573034 55.802968',
+                'upperCorner': '37.589491 55.812236'
+              }
+            },
+            'uri': 'ymapsbm1://geo?data=CgkxMDAwNzkyODASe9Cg0L7RgdGB0LjRjywg0JzQvtGB0LrQstCwLCDQodC10YDQv9GD0YXQvtCy0YHQutC-LdCi0LjQvNC40YDRj9C30LXQstGB0LrQsNGPINC70LjQvdC40Y8sINC80LXRgtGA0L4g0JTQvNC40YLRgNC-0LLRgdC60LDRjyIKDTVTFkIV_DpfQg,,',
+            'Point': {
+              'pos': '37.581262 55.807602'
+            }
+          }
+        },
+        {
+          'GeoObject': {
+            'metaDataProperty': {
+              'GeocoderMetaData': {
+                'precision': 'other',
+                'text': 'Россия, Москва, Люблинско-Дмитровская линия, метро Петровско-Разумовская',
+                'kind': 'metro',
+                'Address': {
+                  'country_code': 'RU',
+                  'formatted': 'Россия, Москва, Люблинско-Дмитровская линия, метро Петровско-Разумовская',
+                  'Components': [
+                    {
+                      'kind': 'country',
+                      'name': 'Россия'
+                    },
+                    {
+                      'kind': 'province',
+                      'name': 'Центральный федеральный округ'
+                    },
+                    {
+                      'kind': 'province',
+                      'name': 'Москва'
+                    },
+                    {
+                      'kind': 'locality',
+                      'name': 'Москва'
+                    },
+                    {
+                      'kind': 'route',
+                      'name': 'Люблинско-Дмитровская линия'
+                    },
+                    {
+                      'kind': 'metro',
+                      'name': 'метро Петровско-Разумовская'
+                    }
+                  ]
+                },
+                'AddressDetails': {
+                  'Country': {
+                    'AddressLine': 'Россия, Москва, Люблинско-Дмитровская линия, метро Петровско-Разумовская',
+                    'CountryNameCode': 'RU',
+                    'CountryName': 'Россия',
+                    'AdministrativeArea': {
+                      'AdministrativeAreaName': 'Москва',
+                      'Locality': {
+                        'LocalityName': 'Москва',
+                        'Thoroughfare': {
+                          'ThoroughfareName': 'Люблинско-Дмитровская линия',
+                          'Premise': {
+                            'PremiseName': 'метро Петровско-Разумовская'
+                          }
+                        }
+                      }
+                    }
+                  }
+                }
+              }
+            },
+            'name': 'метро Петровско-Разумовская',
+            'description': 'Люблинско-Дмитровская линия, Москва, Россия',
+            'boundedBy': {
+              'Envelope': {
+                'lowerCorner': '37.565991 55.82982',
+                'upperCorner': '37.582448 55.839082'
+              }
+            },
+            'uri': 'ymapsbm1://geo?data=CgoxNzM3MDc5ODkxEoYB0KDQvtGB0YHQuNGPLCDQnNC-0YHQutCy0LAsINCb0Y7QsdC70LjQvdGB0LrQvi3QlNC80LjRgtGA0L7QstGB0LrQsNGPINC70LjQvdC40Y8sINC80LXRgtGA0L4g0J_QtdGC0YDQvtCy0YHQutC-LdCg0LDQt9GD0LzQvtCy0YHQutCw0Y8iCg3_SxZCFXpWX0I,',
+            'Point': {
+              'pos': '37.57422 55.834451'
+            }
+          }
+        },
+        {
+          'GeoObject': {
+            'metaDataProperty': {
+              'GeocoderMetaData': {
+                'precision': 'other',
+                'text': 'Россия, МЦД-2 Курско-Рижский диаметр, станция Дмитровская',
+                'kind': 'metro',
+                'Address': {
+                  'country_code': 'RU',
+                  'formatted': 'Россия, МЦД-2 Курско-Рижский диаметр, станция Дмитровская',
+                  'Components': [
+                    {
+                      'kind': 'country',
+                      'name': 'Россия'
+                    },
+                    {
+                      'kind': 'province',
+                      'name': 'Центральный федеральный округ'
+                    },
+                    {
+                      'kind': 'route',
+                      'name': 'МЦД-2 Курско-Рижский диаметр'
+                    },
+                    {
+                      'kind': 'metro',
+                      'name': 'станция Дмитровская'
+                    }
+                  ]
+                },
+                'AddressDetails': {
+                  'Country': {
+                    'AddressLine': 'Россия, МЦД-2 Курско-Рижский диаметр, станция Дмитровская',
+                    'CountryNameCode': 'RU',
+                    'CountryName': 'Россия',
+                    'Country': {
+                      'Locality': {}
+                    }
+                  }
+                }
+              }
+            },
+            'name': 'станция Дмитровская',
+            'description': 'МЦД-2 Курско-Рижский диаметр, Россия',
+            'boundedBy': {
+              'Envelope': {
+                'lowerCorner': '37.570249 55.803322',
+                'upperCorner': '37.586706 55.81259'
+              }
+            },
+            'uri': 'ymapsbm1://geo?data=CgozNzUzNjA4NTMwEmjQoNC-0YHRgdC40Y8sINCc0KbQlC0yINCa0YPRgNGB0LrQvi3QoNC40LbRgdC60LjQuSDQtNC40LDQvNC10YLRgCwg0YHRgtCw0L3RhtC40Y8g0JTQvNC40YLRgNC-0LLRgdC60LDRjyIKDV5QFkIVWTtfQg,,',
+            'Point': {
+              'pos': '37.578478 55.807956'
+            }
+          }
+        },
+        {
+          'GeoObject': {
+            'metaDataProperty': {
+              'GeocoderMetaData': {
+                'precision': 'other',
+                'text': 'Россия, Москва, Серпуховско-Тимирязевская линия, метро Петровско-Разумовская',
+                'kind': 'metro',
+                'Address': {
+                  'country_code': 'RU',
+                  'formatted': 'Россия, Москва, Серпуховско-Тимирязевская линия, метро Петровско-Разумовская',
+                  'Components': [
+                    {
+                      'kind': 'country',
+                      'name': 'Россия'
+                    },
+                    {
+                      'kind': 'province',
+                      'name': 'Центральный федеральный округ'
+                    },
+                    {
+                      'kind': 'province',
+                      'name': 'Москва'
+                    },
+                    {
+                      'kind': 'locality',
+                      'name': 'Москва'
+                    },
+                    {
+                      'kind': 'route',
+                      'name': 'Серпуховско-Тимирязевская линия'
+                    },
+                    {
+                      'kind': 'metro',
+                      'name': 'метро Петровско-Разумовская'
+                    }
+                  ]
+                },
+                'AddressDetails': {
+                  'Country': {
+                    'AddressLine': 'Россия, Москва, Серпуховско-Тимирязевская линия, метро Петровско-Разумовская',
+                    'CountryNameCode': 'RU',
+                    'CountryName': 'Россия',
+                    'AdministrativeArea': {
+                      'AdministrativeAreaName': 'Москва',
+                      'Locality': {
+                        'LocalityName': 'Москва',
+                        'Thoroughfare': {
+                          'ThoroughfareName': 'Серпуховско-Тимирязевская линия',
+                          'Premise': {
+                            'PremiseName': 'метро Петровско-Разумовская'
+                          }
+                        }
+                      }
+                    }
+                  }
+                }
+              }
+            },
+            'name': 'метро Петровско-Разумовская',
+            'description': 'Серпуховско-Тимирязевская линия, Москва, Россия',
+            'boundedBy': {
+              'Envelope': {
+                'lowerCorner': '37.567464 55.831772',
+                'upperCorner': '37.583921 55.841033'
+              }
+            },
+            'uri': 'ymapsbm1://geo?data=CgkxMDAwNzkzNDASjgHQoNC-0YHRgdC40Y8sINCc0L7RgdC60LLQsCwg0KHQtdGA0L_Rg9GF0L7QstGB0LrQvi3QotC40LzQuNGA0Y_Qt9C10LLRgdC60LDRjyDQu9C40L3QuNGPLCDQvNC10YLRgNC-INCf0LXRgtGA0L7QstGB0LrQvi3QoNCw0LfRg9C80L7QstGB0LrQsNGPIgoNgk0WQhV6WF9C',
+            'Point': {
+              'pos': '37.575693 55.836403'
+            }
+          }
+        }
+      ]
+    }
+  }
+}
